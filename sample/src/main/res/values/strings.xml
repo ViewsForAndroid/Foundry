@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">foundry-sample</string>
+    <string name="app_name">Foundry Demo</string>
     <string name="text_sample_normal">Normal Text</string>
     <string name="text_sample_custom">Bentham Text</string>
 </resources>

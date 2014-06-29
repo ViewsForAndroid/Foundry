@@ -1,7 +1,10 @@
-local.properties
-atlassian-ide-plugin.xml
-target/
-.idea
+.DS_Store
+.idea/workspace.xml
+.idea/uiDesigner.xml
+target
 *.iml
-*.DS_Store
-
+.idea
+build
+.gradle
+local.properties
+*~

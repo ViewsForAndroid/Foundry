@@ -1,5 +1,10 @@
 <resources>
+
+    <style name="Theme.Foundry" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
     <style name="StyledByFoundry">
-        <item name="typeface">bentham</item>
+        <item name="typeface">fonts/LindenHill</item>
     </style>
 </resources>
